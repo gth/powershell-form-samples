@@ -1,2 +1,3 @@
-# powershell-form-samples
-A few samples of graphic interfaces written in PowerShell
+# PowerShell Form Samples
+
+A collection of samples graphic interfaces written in PowerShell
